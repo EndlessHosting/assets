@@ -23,7 +23,8 @@ This repository contains our assets that we use throughout the service.
 └───scripts
         directory2.php
         README.md
-        webhook.php```
+        webhook.php
+  ```
 
 ## More Information
 Each folder contains its own README file which might have important information that we would like you to read.
