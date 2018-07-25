@@ -4,7 +4,8 @@ This repository contains our assets that we use throughout the service.
 
 
 ## Directory Listing
-```│   LICENSE
+```
+│   LICENSE
 │   README.md
 │
 ├───docs
